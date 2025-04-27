@@ -2,8 +2,15 @@
 This repo tracks my progress in learning Java - from basic stuff like a calculator to more advanced projects.
 
 ## 📋 Projects
+
 -Hello World
 -Simple Calculator
 
 ## ©️ License
-MIT
+```bash
+MIT License © 2025 N6KV
+
+Permission is granted to use, copy, modify, and distribute this software freely, with the copyright notice included.
+
+The software is provided "as is," without any warranty.
+```
