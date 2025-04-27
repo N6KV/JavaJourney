@@ -13,4 +13,4 @@ Permission is granted to use, copy, modify, and distribute this software freely,
 
 The software is provided "as is," without any warranty.
 ```
-You can find more information about the MIT license [here](https://github.com/N6KV/JavaJourney/LICENSE)!
+You can find more information about the MIT license [here](https://github.com/N6KV/JavaJourney/blob/main/LICENSE)!
