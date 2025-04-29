@@ -4,7 +4,8 @@ This repo tracks my progress in learning Java - from basic stuff like a calculat
 ## 📋 Projects
 - 🌍 Hello World - The classic first step into any new programming language.
 - 🧮 Simple Calculator - A simple terminal-based calculator that supports addition, subtraction, multiplication, and division.
-
+- 🎂 Age Calculator - A small tool that calculates your age based on your birthday (Still in development).
+  
 ## 📁 Structure
 **Every Project in the JavaJourney Repository follows this Structure:** 
 - ```/src``` - Java source files for the projects.
