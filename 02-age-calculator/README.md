@@ -1,5 +1,5 @@
 # Age Calculator 🎂
-Hmm... how old was I again?
+📅 Hmm... how old was I again?
 
 ## 🤔 What this is
 This is a simple Java age calculator that calculates and outputs your age after you type in your birthday.
